@@ -5,8 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ext": "js,hbs",
-    "start": "nodemon -e * src/app.js "
+    "start": "node src/app.js "
   },
   "author": "Manpreet Kamboj",
   "license": "ISC",
